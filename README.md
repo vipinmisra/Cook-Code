@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>lol</title>
+        <title>The Coded kitchen</title>
         <meta charset="utf-18">
         <style>
         body{
